@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# IDE or editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+# Ignore JavaScript files
+*.js
